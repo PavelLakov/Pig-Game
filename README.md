@@ -1,8 +1,9 @@
+[![Live Demo](https://img.shields.io/badge/Live-Demo-orange)](https://pig-game-javascrypt.netlify.app/)
 
 
 
 
-https://pig-game-javascrypt.netlify.app/
+
 
 
 
