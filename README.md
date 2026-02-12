@@ -1,3 +1,11 @@
+
+
+
+
+https://pig-game-javascrypt.netlify.app/
+
+
+
 # Pig Game
 
 Welcome to the **Pig Game**! This is a simple, two-player game where players take turns rolling a dice, trying to be the first to reach 20 points. The game is built using HTML, CSS, and JavaScript.
